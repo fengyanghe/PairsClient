@@ -1,0 +1,1 @@
+This is the Pairs client for the windows 7 64 bit. The Pairs is the tools in my paper titled PAIRS: Prediction of Activation/Inhibition Regulation Signaling Pathway. The introduction is [here](https://fengyanghe.github.io/paper/2016/12/08/pairs.html)
